@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Title: CodeWord Maker 1.00
+## Title: CodeWord Maker 1.01
 ## Author: Ze'ev Schurmann
 ## License: This project is licensed under the GNU General Public License v3.0 only.
 ## License: URL
@@ -18,7 +18,6 @@
 
 ## Where can I get software to create ipuz files?
 ## Crosswords: https://gitlab.gnome.org/jrb/crosswords
-## Sudokus: https://invent.kde.org/games/ksudoku
 
 ## Where I can learn more about the ipuz format?
 ## ipuz is essentially a JSON format designed for storing puzzles.

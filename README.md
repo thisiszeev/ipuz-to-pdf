@@ -4,6 +4,11 @@ Convert ipuz files into PDF so you can easily import into a print publication.
 
 These scripts can be used for once off conversion as well as batch conversion by calling from another script.
 
+This repo is available at two locations:
+
+- https://git.zaks.web.za/thisiszeev/ipuz-to-pdf (MAIN REPO)
+- https://github.com/thisiszeev/ipuz-to-pdf (MIRROR REPO)
+
 ## codeword-maker.sh
 
 This script is for converting ipuz files for crosswords into PDF files as CodeWord puzzles.
@@ -18,9 +23,9 @@ $ bash codeword-maker {filename}.ipuz
 
 ### Sample Files for Testing
 
-    cwsample1.ipuz
-    cwsample2.ipuz
-    cwsample3.ipuz
+- cwsample1.ipuz
+- cwsample2.ipuz
+- cwsample3.ipuz
 
 ### Output Files are as Follows
 
@@ -54,9 +59,9 @@ $ bash crossword-maker {filename}.ipuz
 
 ### Sample Files for Testing
 
-    cwsample1.ipuz
-    cwsample2.ipuz
-    cwsample3.ipuz
+- cwsample1.ipuz
+- cwsample2.ipuz
+- cwsample3.ipuz
 
 ### Output Files are as Follows
 
@@ -83,7 +88,6 @@ Hit me up on Reddit for any requested puzzles to add to future versions.
 ## Linux
 
 - Crosswords : https://gitlab.gnome.org/jrb/crosswords
-- kSudoku : https://invent.kde.org/games/ksudoku
 
 > If you know of any other software that can create ipuz files, please let me know and I will add it here.
 
@@ -91,12 +95,12 @@ Hit me up on Reddit for any requested puzzles to add to future versions.
 
 Please consider making me small donation. Even though my scripts are open source and free to use, I still need to eat. And the occasional bottle of wine also goes down well.
 
-    $5 buys me a cup of coffee
-    $10 buys me a nice burger
-    $20 buys me a bottle of wine
-    Anything above that will be awesome as well.
+- $5 buys me a cup of coffee
+- $10 buys me a nice burger
+- $20 buys me a bottle of wine
+- Anything above that will be awesome as well.
 
-For commercial users, you are free to use these scripts for your publications. But I urge you to please consider making a donation of $50. In return I will provide you direct email/WhatsApp support for a period of 12 months.
+> For commercial users, you are free to use these scripts for your publications. But I urge you to please consider making a donation of $50. In return I will provide you direct email/WhatsApp support for a period of 12 months.
 
 You can send me a donation via Paypal https://www.paypal.com/paypalme/thisiszeev
 
